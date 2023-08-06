@@ -18,7 +18,7 @@ from torch import bfloat16, cuda
 
 device = f'cuda:{cuda.current_device()}' if cuda.is_available() else 'cpu'
 model_name = "meta-llama/Llama-2-7b-chat-hf"
-hf_auth_key = "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"
+hf_auth_key = "<Your auth code here>"
 bnb_config = transformers.BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_quant_type='nf4',
