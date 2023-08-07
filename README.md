@@ -12,7 +12,7 @@ Intel chipsets is not supporting half-precision floating-point number format (fl
 
 > Use GPU.py, If you want to run your llama 2 llm in a low GPU config
 
-> Use main.py, if you wanna run your llama 2 llm in CPU.
+> Use cpu.py, if you wanna run your llama 2 llm in CPU.
 
 
 Make sure to install the below dependencies before running the code
