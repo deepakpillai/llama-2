@@ -1,4 +1,4 @@
-# llama 2 Quantized 
+# llama 2 Quantized  
 
 Objective:- Creating a quantized version of llama 2 LLM to run on the local system 
 
