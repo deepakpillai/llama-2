@@ -15,8 +15,13 @@ Use main.py, if you wanna run your llama 2 llm in CPU. (You should need a very l
 Make sure to install the below dependencies before running the code
 
 transformers==4.31.0
+
 accelerate==0.21.0 
+
 einops==0.6.1
+
 xformers==0.0.20 
+
 bitsandbytes==0.41.0
+
 accelerate
