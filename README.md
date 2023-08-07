@@ -7,7 +7,8 @@ Result:- If you have a GPU, this quantized version works. I have reduced the pre
 
 Intel chipsets is not supporting half-precision floating-point number format. Hence we can't use float16 precision. This resulting a need for a larger ram to run the model compared to the GPU version
 
-> > Use GPU.py, If you want to run your llama 2 llm in a low GPU config
+> Use GPU.py, If you want to run your llama 2 llm in a low GPU config
+
 > Use main.py, if you wanna run your llama 2 llm in CPU. (You should need a very large RAM)
 
 
