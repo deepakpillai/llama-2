@@ -2,6 +2,8 @@
 
 Objective:- Creating a quantized version of llama 2 LLM to run on the local system 
 
+![llama](https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_cybernetic_llama_wearing_sunglasses_synthwav_d3f82260-2c47-4abd-9599-b91751711f5b.png?fit=1456%2C816&strip=all){:width="100"}
+
 Result:- If you have a GPU, this quantized version works. I have reduced the precision to float16 and use of load_in_4bits=True. The load_in_4bits from BitsAndBytes helps to store the model weights in 4bits instead of 32bits which can significantly reduce the model's memory footprint. 
 
 
