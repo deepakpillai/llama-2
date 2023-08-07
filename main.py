@@ -8,7 +8,7 @@
 # !pip install accelerate
 
 ############################################
-# RUN LLAMA ON CPU (NEED 32GB RAM)
+# RUN LLAMA ON CPU
 ############################################
 
 import torch
