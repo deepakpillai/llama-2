@@ -24,3 +24,4 @@ xformers==0.0.20
 bitsandbytes==0.41.0
 accelerate
 ```
+
